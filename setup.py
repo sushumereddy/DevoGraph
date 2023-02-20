@@ -14,7 +14,7 @@ setuptools.setup(
     description="Accelerate data driven research in developmental biology with deep learning models",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/DevoLearn/devolearn",
+    url="https://github.com/DevoLearn/DevoGraph",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
